@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticket_type: 1
+  price: 1.5
+  quantity: 1
+  event: one
+  purchaser: one
+  created_at: 2023-04-23 17:35:36
+  updated_at: 2023-04-23 17:35:36
+
+two:
+  ticket_type: 1
+  price: 1.5
+  quantity: 1
+  event: two
+  purchaser: two
+  created_at: 2023-04-23 17:35:36
+  updated_at: 2023-04-23 17:35:36
